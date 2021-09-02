@@ -2,7 +2,16 @@
 
 This Part includes the setup of 2 DOP networks, which are pyrosolver and popsolver. What is happening is bring the vel from pyro smoke to advect the particles of popsolver.
 
+![屏幕截图 2021-07-23 025915](https://user-images.githubusercontent.com/63625631/131901274-197b0dce-56a8-44d5-a1ca-325139450fdc.jpg)
+
 ![屏幕截图 2021-07-23 024823](https://user-images.githubusercontent.com/63625631/131899858-29232daf-a5ef-43ad-b60a-1ba2e4acc5df.jpg)
+
+instancing between 3 objects:
+
+change code to after adding three objects
+
+![屏幕截图 2021-07-23 030121](https://user-images.githubusercontent.com/63625631/131901484-3eca31e3-6da8-4884-ae80-2884a937d4c2.jpg)
+
 
 ![屏幕截图 2021-07-23 024936](https://user-images.githubusercontent.com/63625631/131900265-9d54e185-0996-427d-94f9-a98fa99e645f.jpg)
 
